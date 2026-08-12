@@ -24,7 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "stalking .gg/solace",     // this is what people actually see
+        state: "
+Femboy Roommate Asks To Sleep With You (EXTENDED VER.) (SLEEPAID) (RP ASMR) (BL/YAOI) (SUB SPEAKER)",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
