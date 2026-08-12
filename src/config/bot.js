@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "That Time I Got Reincarnated as a Seventh-Tier NPC in a Trash-Tier Gacha Game With Zero Pity, Where the Only Way to Level Up Is Eating Raw C Code While My System Notification Sound Is a Loud Airhorn.", // required by Discord API, not shown in the client
+        name: "", // required by Discord API, not shown in the client
         state: "  ",     // this is what people actually see
-        type: 3,               // Custom
+        type: 4,               // Custom
       },
     ],
   },
