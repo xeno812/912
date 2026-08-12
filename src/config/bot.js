@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Femboy Roommate Asks To Sleep With You (EXTENDED VER.) (SLEEPAID) (RP ASMR) (BL/YAOI) (SUB SPEAKER)",     // this is what people actually see
+        name: "That Time I Got Reincarnated as a Seventh-Tier NPC in a Trash-Tier Gacha Game With Zero Pity, Where the Only Way to Level Up Is Eating Raw C Code While My System Notification Sound Is a Loud Airhorn.", // required by Discord API, not shown in the client
+        state: "  ",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
